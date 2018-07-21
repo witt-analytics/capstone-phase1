@@ -1,7 +1,7 @@
 Wittenberg University Analytics
 ================
 Kevin Steidel and Jason Freels
-July 20, 2018
+<br/>July 20, 2018
 
 Welcome to Witt Analytics!
 --------------------------
