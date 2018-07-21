@@ -1,8 +1,8 @@
 ---
 title: "Wittenberg University Analytics"
 subtitle: 'Capstone - Phase 1'
-author: "Kevin Steidel and Jason Freels\\n"
-date: "July 20, 2018"
+author: "Kevin Steidel and Jason Freels"
+date: "<br/>July 20, 2018"
 output: 
   github_document:
     html_preview: no
