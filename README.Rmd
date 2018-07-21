@@ -28,7 +28,7 @@ To get started fo to [**https://products.office.com/en-US/microsoft-teams/group-
 
 DataCamp is an learning platform offering tutorials and courses in programming and data science.  DataCamp offers short 'micro-lessons' that allow users to learn in a way that fits their schedules, on any device. We'll use DataCamp to compliment the course content and to ensure you can implement the methods learned in the courses. 
 
-To get started go to [**(https://www.datacamp.com**](https://www.datacamp.com) and create a DataCamp account. **Note:** after you finish this program you may not have access to your Wittenberg email address.  So, you are advised to use a different email address as the primary email address when creating your account.
+To get started go to [**https://www.datacamp.com**](https://www.datacamp.com) and create a DataCamp account. **Note:** after you finish this program you may not have access to your Wittenberg email address.  So, you are advised to use a different email address as the primary email address when creating your account.
 
 ## Create a GitHub Account
 
